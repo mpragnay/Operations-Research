@@ -1,0 +1,23 @@
+Initial simplex table:
+1 4 24 
+3 1 21 
+1 1 9 
+-2 -5 0 
+
+minimum ratio:6
+Simplex tableau after iteration 1
+0.25 0.25 6 
+2.75 -0.25 15 
+0.75 -0.25 3 
+-0.75 1.25 30 
+
+minimum ratio:4
+Simplex tableau after iteration 2
+-0.333333 0.333333 5 
+-3.66667 0.666667 4 
+1.33333 -0.333333 4 
+1 1 33 
+
+Basic solutions are:0 0 
+Non-basic solutions are:5 4 4 
+Optimized output is:33
